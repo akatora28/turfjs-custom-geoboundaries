@@ -21,7 +21,7 @@ Copy the `.env.example` to a new `.env` file, and add your API Key.
 Update line 9 to include the address you want to gecode inside the `geocoder.geocode('YOUR_ADDRESS_HERE')` call.  
 
 ## Other Addresses to test:  
-`City Hall Park, New York, NY 10007` - NYC City Hall - District 1
-`140 Carder Rd, New York, NY 10004` - Taco Vista, Governor's Island - District 1
-`20 W 34th St, New York, NY 10001` - Empire State Building - District 4
-`200 Central Park West, New York, NY 10024` - American Musuem of Natural History - District 6
+`City Hall Park, New York, NY 10007` - NYC City Hall - District 1  
+`140 Carder Rd, New York, NY 10004` - Taco Vista, Governor's Island - District 1  
+`20 W 34th St, New York, NY 10001` - Empire State Building - District 4  
+`200 Central Park West, New York, NY 10024` - American Musuem of Natural History - District 6  
