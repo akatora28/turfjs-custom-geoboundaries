@@ -1,0 +1,16 @@
+{
+    "name": "turfjs-custom-geoboundaries",
+    "author": "Adam Katora",
+    "license": "MIT",
+    "scripts": {
+      "start": "node -r dotenv/config index.js"
+    },
+    "dependencies": {
+      "@turf/turf": "^6.5.0",
+      "geocodio-library-node": "^1.4.0",
+      "node-geojson": "^1.0.2"
+    },
+    "devDependencies": {
+      "dotenv": "^16.0.0"
+    }
+}
